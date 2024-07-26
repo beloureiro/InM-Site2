@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/InM-Site2/static/css/main.b1a8ca29.css",
-    "main.js": "/InM-Site2/static/js/main.85fd1dce.js",
+    "main.js": "/InM-Site2/static/js/main.718f3f03.js",
     "static/js/453.68693753.chunk.js": "/InM-Site2/static/js/453.68693753.chunk.js",
     "static/media/rsz_1design_inmotion_181818.png": "/InM-Site2/static/media/rsz_1design_inmotion_181818.abe08e1652295e2a53ae.png",
     "index.html": "/InM-Site2/index.html",
     "main.b1a8ca29.css.map": "/InM-Site2/static/css/main.b1a8ca29.css.map",
-    "main.85fd1dce.js.map": "/InM-Site2/static/js/main.85fd1dce.js.map",
+    "main.718f3f03.js.map": "/InM-Site2/static/js/main.718f3f03.js.map",
     "453.68693753.chunk.js.map": "/InM-Site2/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1a8ca29.css",
-    "static/js/main.85fd1dce.js"
+    "static/js/main.718f3f03.js"
   ]
 }
